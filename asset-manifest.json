@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/propertyManagementVersion2/static/css/main.6cfc032b.chunk.css",
+    "main.js": "/propertyManagementVersion2/static/js/main.1d218f00.chunk.js",
+    "main.js.map": "/propertyManagementVersion2/static/js/main.1d218f00.chunk.js.map",
+    "runtime~main.js": "/propertyManagementVersion2/static/js/runtime~main.adb6a117.js",
+    "runtime~main.js.map": "/propertyManagementVersion2/static/js/runtime~main.adb6a117.js.map",
+    "static/js/2.c4ad77c8.chunk.js": "/propertyManagementVersion2/static/js/2.c4ad77c8.chunk.js",
+    "static/js/2.c4ad77c8.chunk.js.map": "/propertyManagementVersion2/static/js/2.c4ad77c8.chunk.js.map",
+    "index.html": "/propertyManagementVersion2/index.html",
+    "precache-manifest.b60d1b659313cebdad6adcda63ed949e.js": "/propertyManagementVersion2/precache-manifest.b60d1b659313cebdad6adcda63ed949e.js",
+    "service-worker.js": "/propertyManagementVersion2/service-worker.js",
+    "static/css/main.6cfc032b.chunk.css.map": "/propertyManagementVersion2/static/css/main.6cfc032b.chunk.css.map",
+    "static/media/signInContainer.module.css": "/propertyManagementVersion2/static/media/homes.21da357b.jpg"
+  }
+}
