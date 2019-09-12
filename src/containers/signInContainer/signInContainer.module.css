@@ -1,0 +1,65 @@
+.main{
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.7), 
+  rgba(0, 0, 0, 0.5)), url('../../assets/homes.jpg');
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.form{
+  /* height: 300px; */
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 3rem 4rem;
+  background: rgba(255, 255, 255, 0.87);
+  border-radius: 5px;
+  font-size: 1.3rem;
+}
+
+.formTitle{
+  margin: 0 0 2rem 0;
+  text-align: center;
+}
+
+.formDescription{
+  text-align: center;
+  font-size: 1.6rem;
+  margin: 0 0 2rem 0;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.inputs > * {
+  width: 80%;
+  margin: 0 auto 1.4rem auto;
+}
+
+.label{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.textInput{
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  padding: .5rem;
+  font-size: inherit;
+  margin-left: .5rem;
+}
+
+.back{
+  text-align: center;
+  cursor: pointer;
+}
